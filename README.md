@@ -1,6 +1,6 @@
 <img width="488" height="157" alt="image" src="https://github.com/user-attachments/assets/9687512f-3b36-46c6-aacc-45c480cae33b" />
 
-# 🔄 Actividad Formativa – Sincronizando procesos en sistemas concurrentes
+# 🔄 Actividad Sumativa II– Sincronizando procesos en sistemas concurrentes
 
 ---
 

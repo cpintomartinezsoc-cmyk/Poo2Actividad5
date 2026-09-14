@@ -7,10 +7,15 @@
 ## 👤 Datos del estudiante
 
 **Nombre:** Camilo Pinto
+
 **Carrera:** Analista Programador
+
 **Asignatura:** Desarrollo Orientado a Objetos II
+
 **Semana:** 5
+
 **Caso:** SpeedFast
+
 
 ---
 
